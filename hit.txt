@@ -1,0 +1,16 @@
+ALLUXIO
+It is the first open source orcheratition data system project which deals with cloud storage where it acts as a bridge between the data driven application and the storage system here all the data and information is being transfered fron the first-tier storage system
+to the data driven application, it is the easist and the simplest way which gives access and allows a lot of application
+to store data in the storage system.it has been licensed with apache licence 2.0
+
+key features
+
+1.open to use-
+alluxio is an open source project which is open to everyone on the platform.
+
+2.large communities-
+alluxio has a large community of contributors and members from big companys who contribute in the project.
+
+3.safe-
+the security is very high and safe for the users and their data.
+
